@@ -1,32 +1,68 @@
-🎮 Play Quiz Física 1 – Juego Interactivo
+# 🎮 Play Quiz Física 1 – Juego Interactivo
 
-Descripción:
-Play Quiz Física 1 es un juego educativo diseñado para estudiantes que desean reforzar sus conocimientos en Física Básica (Física 1) de manera divertida e interactiva. El juego presenta preguntas de opción múltiple sobre temas como: movimiento, fuerzas, energía, trabajo, leyes de Newton, vectores y más.
+---
 
-Con una interfaz sencilla y clara, los jugadores pueden evaluar su comprensión, aprender mientras juegan y mejorar sus habilidades en física. Cada pregunta incluye una explicación breve para que los jugadores comprendan la respuesta correcta y refuercen su aprendizaje.
+## 📄 **Descripción del Juego**
+**Play Quiz Física 1** es un juego educativo diseñado para estudiantes que desean **reforzar sus conocimientos en Física Básica (Física 1)** de manera **divertida e interactiva**.  
+El juego presenta **preguntas de opción múltiple** sobre temas fundamentales como:
 
-Objetivos del juego:
+- Movimiento rectilíneo y circular
+- Leyes de Newton
+- Vectores y magnitudes físicas
+- Energía, trabajo y potencia
+- Cantidad de movimiento y choques
 
-Proporcionar una herramienta educativa divertida para estudiantes de Física 1.
+Cada pregunta incluye una **explicación breve** para ayudar a los jugadores a **entender la respuesta correcta** y reforzar su aprendizaje.
 
-Facilitar el aprendizaje mediante preguntas interactivas y explicaciones claras.
+---
 
-Promover el estudio autónomo y la práctica constante.
+## 🎯 **Objetivos**
+- Proporcionar una **herramienta educativa divertida** para estudiantes de Física 1.  
+- Facilitar el aprendizaje mediante **preguntas interactivas y explicaciones claras**.  
+- Promover el **estudio autónomo** y la práctica constante.
 
-Características principales:
+---
 
-Más de 20 preguntas de física con diferentes niveles de dificultad (fácil, medio y difícil).
+## ⚡ **Características principales**
+- Más de **20 preguntas** de física con **diferentes niveles de dificultad** (fácil, medio y difícil).  
+- **Explicaciones claras** para cada respuesta.  
+- Interfaz **sencilla, amigable y responsive**.  
+- Código **modular y fácil de actualizar** para agregar nuevas preguntas.  
+- Compatible con **navegadores web modernos**.
 
-Explicaciones breves y claras para cada respuesta.
+---
 
-Compatible con navegadores web modernos.
+## 🛠 **Tecnologías utilizadas**
+- **Frontend:** React + TypeScript  
+- **Diseño UI:** Material-UI / Bootstrap  
+- **Control de versiones:** Git y GitHub
 
-Código modular y fácil de actualizar o ampliar con nuevas preguntas.
+---
 
-Tecnologías utilizadas:
+## 🚀 **Cómo jugar**
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/tuusuario/nuevo-repo.git
+2. Ingresa a la carpeta del proyecto:
+   cd nombre-del-proyecto
+3. Instala las dependencias:
+   npm install
+4. Ejecuta el juego:
+   npm run build
+#📚 Temas que cubre el juego
 
-Frontend: React, TypeScript
+---
+Magnitudes físicas y unidades (SI)
 
-Diseño UI: Material-UI / Bootstrap
+Movimiento rectilíneo uniforme (MRU) y acelerado (MRUA)
 
-Control de versiones: Git y GitHub
+Caída libre y movimiento parabólico
+
+Fuerzas, fricción y leyes de Newton
+
+Energía cinética y potencial, trabajo y potencia
+
+Momentum e impulso, choques elásticos e inelástico
+
+   ```bash
+   git clone https://github.com/tuusuario/nuevo-repo.git
