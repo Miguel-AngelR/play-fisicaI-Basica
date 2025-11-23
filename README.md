@@ -42,7 +42,7 @@ Cada pregunta incluye una **explicación breve** para ayudar a los jugadores a *
 ## 🚀 **Cómo jugar**
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/nuevo-repo.git
+    https://github.com/Miguel-AngelR/play-fisicaI-Basica.git
 2. Ingresa a la carpeta del proyecto:
    ```bash
    cd nombre-del-proyecto
@@ -58,15 +58,15 @@ Cada pregunta incluye una **explicación breve** para ayudar a los jugadores a *
 #📚 Temas que cubre el juego
 
 - Magnitudes físicas y unidades (SI)
-
+   
 - Movimiento rectilíneo uniforme (MRU) y acelerado (MRUA)
 
 - Caída libre y movimiento parabólico
 
-- Fuerzas, fricción y leyes de Newton
-
+- Fuerzas, fricción y leyes de Newton   
+   
 - Energía cinética y potencial, trabajo y potencia
-
+                                                                                                                                                                                                                                                                                                                                             
 Momentum e impulso, choques elásticos e inelástico
 
    ```bash
