@@ -57,15 +57,15 @@ Cada pregunta incluye una **explicación breve** para ayudar a los jugadores a *
 ---
 #📚 Temas que cubre el juego
 
-Magnitudes físicas y unidades (SI)
+- Magnitudes físicas y unidades (SI)
 
-Movimiento rectilíneo uniforme (MRU) y acelerado (MRUA)
+- Movimiento rectilíneo uniforme (MRU) y acelerado (MRUA)
 
-Caída libre y movimiento parabólico
+- Caída libre y movimiento parabólico
 
-Fuerzas, fricción y leyes de Newton
+- Fuerzas, fricción y leyes de Newton
 
-Energía cinética y potencial, trabajo y potencia
+- Energía cinética y potencial, trabajo y potencia
 
 Momentum e impulso, choques elásticos e inelástico
 
