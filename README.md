@@ -44,14 +44,19 @@ Cada pregunta incluye una **explicación breve** para ayudar a los jugadores a *
    ```bash
    git clone https://github.com/tuusuario/nuevo-repo.git
 2. Ingresa a la carpeta del proyecto:
+   ```bash
    cd nombre-del-proyecto
-3. Instala las dependencias:
+4. Instala las dependencias:
+   ```bash
    npm install
-4. Ejecuta el juego:
+6. Ejecuta el juego:
+   ```bash
    npm run build
-#📚 Temas que cubre el juego
+
 
 ---
+#📚 Temas que cubre el juego
+
 Magnitudes físicas y unidades (SI)
 
 Movimiento rectilíneo uniforme (MRU) y acelerado (MRUA)
